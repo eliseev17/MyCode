@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\elisi\source\repos\massive\massive\myform.h(594): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\elisi\source\repos\massive\massive\myform.h(677): warning C4101: i: неиспользованная локальная переменная
+c:\users\elisi\source\repos\massive\massive\myform.h(793): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Massive.vcxproj -> C:\Users\elisi\source\repos\Massive\Debug\Massive.exe
